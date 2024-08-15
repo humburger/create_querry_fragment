@@ -1,0 +1,1 @@
+Working with ArcGis application there are querries, where can be added querry fragments for larger data work. Idea is to create some fragment of text from multiple ids, which can be later integrated into ArcGis app querries as IN() with quotes or without. With one or two id its simple, but with more than 100 not so simple if needs to this by 'hand'.
